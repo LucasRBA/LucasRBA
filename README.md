@@ -2,9 +2,9 @@
 
 <div align="center">
   <a href="https://github.com/LucasRBA">
-<img align="center" ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LucasRBA&count_private=true)](https://github.com/anuraghazra/github-readme-stats) />
+<img align="center" src="![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LucasRBA&count_private=true)](https://github.com/anuraghazra/github-readme-stats)" />
 
-<img align="center" [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRBA)](https://github.com/anuraghazra/github-readme-stats) />
+<img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRBA)](https://github.com/anuraghazra/github-readme-stats)" />
 </div>
 
 <div style="display: inline_block"><br>
