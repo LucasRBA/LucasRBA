@@ -1,7 +1,7 @@
 ## Hello! I'm Lucas 
 
 <div align="center" >
-  <a href="https://github.com/LucasRBA">
+  <a href="https://github.com/LucasRBA/">
 </div>
   
 <div align="center" > 
