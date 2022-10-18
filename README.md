@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/LucasRBA">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasRBA&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="LucasRBA's github stats" /></a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRBA&layout=compact&theme=synthwave&hide_border=true" /></a> 
+   <img  alt="LucasRBA's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/LucasRBA?cardType=level&theme=synthwave" />  </a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRBA&layout=compact&theme=synthwave&hide_border=true" /></a> 
  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LucasRBA" />
 </div>
 
