@@ -9,14 +9,26 @@
 </div>
 <div align="center">
   <p>                                                </p>
+  <p>                                                </p>
 </div>  
-<div align="center">   
+<div align="center"> 
+  
   <img align="center" alt="LucasRBA's Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRBA&theme=synthwave&exclude_repo=Modelomachinelearning-Covid-19,Desafios-algoritmo-python,SQL-NoSQL-DIO"/></a> 
 </div>
 
+<div align="center">
+  <p>                                                </p>
+  <p>                                                </p>
+</div>  
 <div align="center" >
+  
  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LucasRBA" />
 </div>
+
+<div align="center">
+  <p>                                                </p>
+  <p>                                                </p>
+</div>  
 
 <div style="background-color:rgba(255, 99, 71);" style="display: inline_block"><br>
   
