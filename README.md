@@ -8,6 +8,7 @@
   <img  align="center" alt="LucasRBA's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LucasRBA&show_icons=true&theme=synthwave" /> 
 </div>
 <div align="center">
+  <p>                                                </p>
 </div>  
 <div align="center">   
   <img align="center" alt="LucasRBA's Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRBA&theme=synthwave&exclude_repo=Modelomachinelearning-Covid-19,Desafios-algoritmo-python,SQL-NoSQL-DIO"/></a> 
