@@ -2,8 +2,9 @@
 
 <div align="center">
   <a href="https://github.com/LucasRBA">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasRBA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRBA&layout=compact&langs_count=7&theme=dark"/>
+[![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=LucasRBA&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRBA)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div style="display: inline_block"><br>
