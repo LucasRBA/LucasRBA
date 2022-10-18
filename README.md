@@ -22,7 +22,7 @@
 </div>  
 <div align="center" >
   
- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LucasRBA" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LucasRBA&theme=synthwave" />
 </div>
 
 <div align="center">
