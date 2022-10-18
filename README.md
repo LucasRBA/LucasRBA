@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/LucasRBA">
-   <img  align="center" alt="LucasRBA's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LucasRBA&show_icons=true&theme=synthwave" />  </a> <img align="center" alt="LucasRBA's Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRBA&theme=syntwave&exclude_repo=Modelomachinelearning-Covid-19,Desafios-algoritmo-python,SQL-NoSQL-DIO"/></a> 
+   <img  align="center" alt="LucasRBA's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LucasRBA&show_icons=true&theme=synthwave" />  </a> <img align="center" alt="LucasRBA's Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRBA&theme=synthwave&exclude_repo=Modelomachinelearning-Covid-19,Desafios-algoritmo-python,SQL-NoSQL-DIO"/></a> 
  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LucasRBA" />
 </div>
 
