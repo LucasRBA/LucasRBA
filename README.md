@@ -1,8 +1,4 @@
 ## Hello! I'm Lucas 
-
-<div align="center" >
-  <a href="https://github.com/LucasRBA/">
-</div>
   
 <div align="center" > 
   <img  align="center" alt="LucasRBA's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LucasRBA&show_icons=true&theme=synthwave" /> 
