@@ -19,7 +19,7 @@
 
 <div align="center" >
   
- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LucasRBA&theme=synthwave" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LucasRBA&theme=synthwave&v=2" />
 </div>
 
 <div align="center">
