@@ -15,7 +15,8 @@
 <div align="center">
   <p>                                                </p>
   <p>                                                </p>
-</div>  
+</div>
+
 <div align="center" >
   
  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LucasRBA&theme=synthwave" />
